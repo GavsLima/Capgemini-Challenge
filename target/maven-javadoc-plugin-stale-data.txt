@@ -1,0 +1,58 @@
+@options
+@packages
+@argfile
+-encoding
+'Cp1252'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/Acer/Downloads/capgemini-challenge/capgemini-challenge/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Acer/Downloads/capgemini-challenge/capgemini-challenge/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'capgemini-challenge 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Acer/Downloads/capgemini-challenge/capgemini-challenge/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'capgemini-challenge 1.0-SNAPSHOT API'
+capgemini.firstchallenge
+capgemini.secondchallenge
+capgemini.thirdchallenge
+'C:/Users/Acer/Downloads/capgemini-challenge/capgemini-challenge/src/main/java/capgemini/firstchallenge/Main.java'
+'C:/Users/Acer/Downloads/capgemini-challenge/capgemini-challenge/src/main/java/capgemini/firstchallenge/StairsBuilder.java'
+'C:/Users/Acer/Downloads/capgemini-challenge/capgemini-challenge/src/main/java/capgemini/secondchallenge/Main.java'
+'C:/Users/Acer/Downloads/capgemini-challenge/capgemini-challenge/src/main/java/capgemini/secondchallenge/PasswordChecker.java'
+'C:/Users/Acer/Downloads/capgemini-challenge/capgemini-challenge/src/main/java/capgemini/secondchallenge/PasswordCheckerRegex.java'
+'C:/Users/Acer/Downloads/capgemini-challenge/capgemini-challenge/src/main/java/capgemini/thirdchallenge/AnagramFinder.java'
+'C:/Users/Acer/Downloads/capgemini-challenge/capgemini-challenge/src/main/java/capgemini/thirdchallenge/Main.java'
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\src\main\java = 1645292918543
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\allclasses-index.html = 1645382479815
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\allclasses.html = 1645382479862
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\allpackages-index.html = 1645382479830
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\constant-values.html = 1645382479594
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\deprecated-list.html = 1645382479856
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\element-list = 1645382479331
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\help-doc.html = 1645382479878
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\index-all.html = 1645382479800
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\index.html = 1645382479871
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\member-search-index.js = 1645382479793
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\member-search-index.zip = 1645382479795
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\overview-summary.html = 1645382479874
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\overview-tree.html = 1645382479723
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\package-search-index.js = 1645382479747
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\package-search-index.zip = 1645382479785
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\script.js = 1645382479883
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\search.js = 1645382479886
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\stylesheet.css = 1645382479881
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\type-search-index.js = 1645382479787
+C:\Users\Acer\Downloads\capgemini-challenge\capgemini-challenge\target\apidocs\type-search-index.zip = 1645382479790
